@@ -1,0 +1,11 @@
+/Users/umreenimam/Desktop/Coding/c#/helloWorldAgain/HelloWorldAgain/HelloWorldAgain/bin/Debug/netcoreapp3.0/HelloWorldAgain
+/Users/umreenimam/Desktop/Coding/c#/helloWorldAgain/HelloWorldAgain/HelloWorldAgain/bin/Debug/netcoreapp3.0/HelloWorldAgain.deps.json
+/Users/umreenimam/Desktop/Coding/c#/helloWorldAgain/HelloWorldAgain/HelloWorldAgain/bin/Debug/netcoreapp3.0/HelloWorldAgain.runtimeconfig.json
+/Users/umreenimam/Desktop/Coding/c#/helloWorldAgain/HelloWorldAgain/HelloWorldAgain/bin/Debug/netcoreapp3.0/HelloWorldAgain.runtimeconfig.dev.json
+/Users/umreenimam/Desktop/Coding/c#/helloWorldAgain/HelloWorldAgain/HelloWorldAgain/bin/Debug/netcoreapp3.0/HelloWorldAgain.dll
+/Users/umreenimam/Desktop/Coding/c#/helloWorldAgain/HelloWorldAgain/HelloWorldAgain/bin/Debug/netcoreapp3.0/HelloWorldAgain.pdb
+/Users/umreenimam/Desktop/Coding/c#/helloWorldAgain/HelloWorldAgain/HelloWorldAgain/obj/Debug/netcoreapp3.0/HelloWorldAgain.csprojAssemblyReference.cache
+/Users/umreenimam/Desktop/Coding/c#/helloWorldAgain/HelloWorldAgain/HelloWorldAgain/obj/Debug/netcoreapp3.0/HelloWorldAgain.AssemblyInfoInputs.cache
+/Users/umreenimam/Desktop/Coding/c#/helloWorldAgain/HelloWorldAgain/HelloWorldAgain/obj/Debug/netcoreapp3.0/HelloWorldAgain.AssemblyInfo.cs
+/Users/umreenimam/Desktop/Coding/c#/helloWorldAgain/HelloWorldAgain/HelloWorldAgain/obj/Debug/netcoreapp3.0/HelloWorldAgain.dll
+/Users/umreenimam/Desktop/Coding/c#/helloWorldAgain/HelloWorldAgain/HelloWorldAgain/obj/Debug/netcoreapp3.0/HelloWorldAgain.pdb

@@ -1,0 +1,11 @@
+/Users/umreenimam/Desktop/Coding/c#/loops/loops/loops/bin/Debug/netcoreapp3.0/loops
+/Users/umreenimam/Desktop/Coding/c#/loops/loops/loops/bin/Debug/netcoreapp3.0/loops.deps.json
+/Users/umreenimam/Desktop/Coding/c#/loops/loops/loops/bin/Debug/netcoreapp3.0/loops.runtimeconfig.json
+/Users/umreenimam/Desktop/Coding/c#/loops/loops/loops/bin/Debug/netcoreapp3.0/loops.runtimeconfig.dev.json
+/Users/umreenimam/Desktop/Coding/c#/loops/loops/loops/bin/Debug/netcoreapp3.0/loops.dll
+/Users/umreenimam/Desktop/Coding/c#/loops/loops/loops/bin/Debug/netcoreapp3.0/loops.pdb
+/Users/umreenimam/Desktop/Coding/c#/loops/loops/loops/obj/Debug/netcoreapp3.0/loops.csprojAssemblyReference.cache
+/Users/umreenimam/Desktop/Coding/c#/loops/loops/loops/obj/Debug/netcoreapp3.0/loops.AssemblyInfoInputs.cache
+/Users/umreenimam/Desktop/Coding/c#/loops/loops/loops/obj/Debug/netcoreapp3.0/loops.AssemblyInfo.cs
+/Users/umreenimam/Desktop/Coding/c#/loops/loops/loops/obj/Debug/netcoreapp3.0/loops.dll
+/Users/umreenimam/Desktop/Coding/c#/loops/loops/loops/obj/Debug/netcoreapp3.0/loops.pdb

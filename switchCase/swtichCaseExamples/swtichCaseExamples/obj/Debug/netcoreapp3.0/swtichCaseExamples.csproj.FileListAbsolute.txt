@@ -1,0 +1,11 @@
+/Users/umreenimam/Desktop/Coding/c#/switchCase/swtichCaseExamples/swtichCaseExamples/bin/Debug/netcoreapp3.0/swtichCaseExamples
+/Users/umreenimam/Desktop/Coding/c#/switchCase/swtichCaseExamples/swtichCaseExamples/bin/Debug/netcoreapp3.0/swtichCaseExamples.deps.json
+/Users/umreenimam/Desktop/Coding/c#/switchCase/swtichCaseExamples/swtichCaseExamples/bin/Debug/netcoreapp3.0/swtichCaseExamples.runtimeconfig.json
+/Users/umreenimam/Desktop/Coding/c#/switchCase/swtichCaseExamples/swtichCaseExamples/bin/Debug/netcoreapp3.0/swtichCaseExamples.runtimeconfig.dev.json
+/Users/umreenimam/Desktop/Coding/c#/switchCase/swtichCaseExamples/swtichCaseExamples/bin/Debug/netcoreapp3.0/swtichCaseExamples.dll
+/Users/umreenimam/Desktop/Coding/c#/switchCase/swtichCaseExamples/swtichCaseExamples/bin/Debug/netcoreapp3.0/swtichCaseExamples.pdb
+/Users/umreenimam/Desktop/Coding/c#/switchCase/swtichCaseExamples/swtichCaseExamples/obj/Debug/netcoreapp3.0/swtichCaseExamples.csprojAssemblyReference.cache
+/Users/umreenimam/Desktop/Coding/c#/switchCase/swtichCaseExamples/swtichCaseExamples/obj/Debug/netcoreapp3.0/swtichCaseExamples.AssemblyInfoInputs.cache
+/Users/umreenimam/Desktop/Coding/c#/switchCase/swtichCaseExamples/swtichCaseExamples/obj/Debug/netcoreapp3.0/swtichCaseExamples.AssemblyInfo.cs
+/Users/umreenimam/Desktop/Coding/c#/switchCase/swtichCaseExamples/swtichCaseExamples/obj/Debug/netcoreapp3.0/swtichCaseExamples.dll
+/Users/umreenimam/Desktop/Coding/c#/switchCase/swtichCaseExamples/swtichCaseExamples/obj/Debug/netcoreapp3.0/swtichCaseExamples.pdb

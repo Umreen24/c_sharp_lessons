@@ -1,0 +1,11 @@
+/Users/umreenimam/Desktop/Coding/c#/helloearth/HelloEarth/HelloEarth/bin/Debug/netcoreapp3.0/HelloEarth
+/Users/umreenimam/Desktop/Coding/c#/helloearth/HelloEarth/HelloEarth/bin/Debug/netcoreapp3.0/HelloEarth.deps.json
+/Users/umreenimam/Desktop/Coding/c#/helloearth/HelloEarth/HelloEarth/bin/Debug/netcoreapp3.0/HelloEarth.runtimeconfig.json
+/Users/umreenimam/Desktop/Coding/c#/helloearth/HelloEarth/HelloEarth/bin/Debug/netcoreapp3.0/HelloEarth.runtimeconfig.dev.json
+/Users/umreenimam/Desktop/Coding/c#/helloearth/HelloEarth/HelloEarth/bin/Debug/netcoreapp3.0/HelloEarth.dll
+/Users/umreenimam/Desktop/Coding/c#/helloearth/HelloEarth/HelloEarth/bin/Debug/netcoreapp3.0/HelloEarth.pdb
+/Users/umreenimam/Desktop/Coding/c#/helloearth/HelloEarth/HelloEarth/obj/Debug/netcoreapp3.0/HelloEarth.csprojAssemblyReference.cache
+/Users/umreenimam/Desktop/Coding/c#/helloearth/HelloEarth/HelloEarth/obj/Debug/netcoreapp3.0/HelloEarth.AssemblyInfoInputs.cache
+/Users/umreenimam/Desktop/Coding/c#/helloearth/HelloEarth/HelloEarth/obj/Debug/netcoreapp3.0/HelloEarth.AssemblyInfo.cs
+/Users/umreenimam/Desktop/Coding/c#/helloearth/HelloEarth/HelloEarth/obj/Debug/netcoreapp3.0/HelloEarth.dll
+/Users/umreenimam/Desktop/Coding/c#/helloearth/HelloEarth/HelloEarth/obj/Debug/netcoreapp3.0/HelloEarth.pdb
