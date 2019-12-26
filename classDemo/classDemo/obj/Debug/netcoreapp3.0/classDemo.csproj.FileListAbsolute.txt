@@ -1,0 +1,11 @@
+/Users/umreenimam/Desktop/Coding/c#/classDemo/classDemo/bin/Debug/netcoreapp3.0/classDemo
+/Users/umreenimam/Desktop/Coding/c#/classDemo/classDemo/bin/Debug/netcoreapp3.0/classDemo.deps.json
+/Users/umreenimam/Desktop/Coding/c#/classDemo/classDemo/bin/Debug/netcoreapp3.0/classDemo.runtimeconfig.json
+/Users/umreenimam/Desktop/Coding/c#/classDemo/classDemo/bin/Debug/netcoreapp3.0/classDemo.runtimeconfig.dev.json
+/Users/umreenimam/Desktop/Coding/c#/classDemo/classDemo/bin/Debug/netcoreapp3.0/classDemo.dll
+/Users/umreenimam/Desktop/Coding/c#/classDemo/classDemo/bin/Debug/netcoreapp3.0/classDemo.pdb
+/Users/umreenimam/Desktop/Coding/c#/classDemo/classDemo/obj/Debug/netcoreapp3.0/classDemo.csprojAssemblyReference.cache
+/Users/umreenimam/Desktop/Coding/c#/classDemo/classDemo/obj/Debug/netcoreapp3.0/classDemo.AssemblyInfoInputs.cache
+/Users/umreenimam/Desktop/Coding/c#/classDemo/classDemo/obj/Debug/netcoreapp3.0/classDemo.AssemblyInfo.cs
+/Users/umreenimam/Desktop/Coding/c#/classDemo/classDemo/obj/Debug/netcoreapp3.0/classDemo.dll
+/Users/umreenimam/Desktop/Coding/c#/classDemo/classDemo/obj/Debug/netcoreapp3.0/classDemo.pdb

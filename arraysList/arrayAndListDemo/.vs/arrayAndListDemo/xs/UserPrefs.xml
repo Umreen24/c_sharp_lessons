@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{EC2E7EF9-4D68-4E8E-9877-450F59A36DE6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="arrayAndListDemo/Program.cs">
+    <Files>
+      <File FileName="arrayAndListDemo/Program.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="arrayAndListDemo" expanded="True">
+            <Node name="arrayAndListDemo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.arrayAndListDemo FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

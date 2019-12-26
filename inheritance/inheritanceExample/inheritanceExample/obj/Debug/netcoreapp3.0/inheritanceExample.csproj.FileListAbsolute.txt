@@ -1,0 +1,11 @@
+/Users/umreenimam/Desktop/Coding/c#/inheritance/inheritanceExample/inheritanceExample/obj/Debug/netcoreapp3.0/inheritanceExample.csprojAssemblyReference.cache
+/Users/umreenimam/Desktop/Coding/c#/inheritance/inheritanceExample/inheritanceExample/obj/Debug/netcoreapp3.0/inheritanceExample.AssemblyInfoInputs.cache
+/Users/umreenimam/Desktop/Coding/c#/inheritance/inheritanceExample/inheritanceExample/obj/Debug/netcoreapp3.0/inheritanceExample.AssemblyInfo.cs
+/Users/umreenimam/Desktop/Coding/c#/inheritance/inheritanceExample/inheritanceExample/bin/Debug/netcoreapp3.0/inheritanceExample
+/Users/umreenimam/Desktop/Coding/c#/inheritance/inheritanceExample/inheritanceExample/bin/Debug/netcoreapp3.0/inheritanceExample.deps.json
+/Users/umreenimam/Desktop/Coding/c#/inheritance/inheritanceExample/inheritanceExample/bin/Debug/netcoreapp3.0/inheritanceExample.runtimeconfig.json
+/Users/umreenimam/Desktop/Coding/c#/inheritance/inheritanceExample/inheritanceExample/bin/Debug/netcoreapp3.0/inheritanceExample.runtimeconfig.dev.json
+/Users/umreenimam/Desktop/Coding/c#/inheritance/inheritanceExample/inheritanceExample/bin/Debug/netcoreapp3.0/inheritanceExample.dll
+/Users/umreenimam/Desktop/Coding/c#/inheritance/inheritanceExample/inheritanceExample/bin/Debug/netcoreapp3.0/inheritanceExample.pdb
+/Users/umreenimam/Desktop/Coding/c#/inheritance/inheritanceExample/inheritanceExample/obj/Debug/netcoreapp3.0/inheritanceExample.dll
+/Users/umreenimam/Desktop/Coding/c#/inheritance/inheritanceExample/inheritanceExample/obj/Debug/netcoreapp3.0/inheritanceExample.pdb

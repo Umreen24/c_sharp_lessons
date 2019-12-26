@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/umreenimam/Desktop/Coding/c#/arraysList/arrayAndListDemo/arrayAndListDemo/arrayAndListDemo.csproj": {}
+  },
+  "projects": {
+    "/Users/umreenimam/Desktop/Coding/c#/arraysList/arrayAndListDemo/arrayAndListDemo/arrayAndListDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/umreenimam/Desktop/Coding/c#/arraysList/arrayAndListDemo/arrayAndListDemo/arrayAndListDemo.csproj",
+        "projectName": "arrayAndListDemo",
+        "projectPath": "/Users/umreenimam/Desktop/Coding/c#/arraysList/arrayAndListDemo/arrayAndListDemo/arrayAndListDemo.csproj",
+        "packagesPath": "/Users/umreenimam/.nuget/packages/",
+        "outputPath": "/Users/umreenimam/Desktop/Coding/c#/arraysList/arrayAndListDemo/arrayAndListDemo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/umreenimam/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

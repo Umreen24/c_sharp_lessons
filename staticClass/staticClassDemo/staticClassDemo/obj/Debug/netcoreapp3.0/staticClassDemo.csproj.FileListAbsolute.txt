@@ -1,0 +1,11 @@
+/Users/umreenimam/Desktop/Coding/c#/staticClass/staticClassDemo/staticClassDemo/bin/Debug/netcoreapp3.0/staticClassDemo
+/Users/umreenimam/Desktop/Coding/c#/staticClass/staticClassDemo/staticClassDemo/bin/Debug/netcoreapp3.0/staticClassDemo.deps.json
+/Users/umreenimam/Desktop/Coding/c#/staticClass/staticClassDemo/staticClassDemo/bin/Debug/netcoreapp3.0/staticClassDemo.runtimeconfig.json
+/Users/umreenimam/Desktop/Coding/c#/staticClass/staticClassDemo/staticClassDemo/bin/Debug/netcoreapp3.0/staticClassDemo.runtimeconfig.dev.json
+/Users/umreenimam/Desktop/Coding/c#/staticClass/staticClassDemo/staticClassDemo/bin/Debug/netcoreapp3.0/staticClassDemo.dll
+/Users/umreenimam/Desktop/Coding/c#/staticClass/staticClassDemo/staticClassDemo/bin/Debug/netcoreapp3.0/staticClassDemo.pdb
+/Users/umreenimam/Desktop/Coding/c#/staticClass/staticClassDemo/staticClassDemo/obj/Debug/netcoreapp3.0/staticClassDemo.csprojAssemblyReference.cache
+/Users/umreenimam/Desktop/Coding/c#/staticClass/staticClassDemo/staticClassDemo/obj/Debug/netcoreapp3.0/staticClassDemo.AssemblyInfoInputs.cache
+/Users/umreenimam/Desktop/Coding/c#/staticClass/staticClassDemo/staticClassDemo/obj/Debug/netcoreapp3.0/staticClassDemo.AssemblyInfo.cs
+/Users/umreenimam/Desktop/Coding/c#/staticClass/staticClassDemo/staticClassDemo/obj/Debug/netcoreapp3.0/staticClassDemo.dll
+/Users/umreenimam/Desktop/Coding/c#/staticClass/staticClassDemo/staticClassDemo/obj/Debug/netcoreapp3.0/staticClassDemo.pdb
