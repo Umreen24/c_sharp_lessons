@@ -87,6 +87,11 @@ namespace inheritanceExample
                 m.CalculateAnnualFee();
                 Console.WriteLine(m.ToString());
             }
+
+            if (clubMembers[0].GetType() == typeof(VIPMember))
+                Console.WriteLine("Yes");
+            else
+                Console.WriteLine("No");
         }
     }
 }

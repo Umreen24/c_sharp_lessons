@@ -1,0 +1,11 @@
+/Users/umreenimam/Desktop/Coding/c#/abstractClasses/abstractClasses/abstractClasses/obj/Debug/netcoreapp3.0/abstractClasses.csprojAssemblyReference.cache
+/Users/umreenimam/Desktop/Coding/c#/abstractClasses/abstractClasses/abstractClasses/obj/Debug/netcoreapp3.0/abstractClasses.AssemblyInfoInputs.cache
+/Users/umreenimam/Desktop/Coding/c#/abstractClasses/abstractClasses/abstractClasses/obj/Debug/netcoreapp3.0/abstractClasses.AssemblyInfo.cs
+/Users/umreenimam/Desktop/Coding/c#/abstractClasses/abstractClasses/abstractClasses/bin/Debug/netcoreapp3.0/abstractClasses
+/Users/umreenimam/Desktop/Coding/c#/abstractClasses/abstractClasses/abstractClasses/bin/Debug/netcoreapp3.0/abstractClasses.deps.json
+/Users/umreenimam/Desktop/Coding/c#/abstractClasses/abstractClasses/abstractClasses/bin/Debug/netcoreapp3.0/abstractClasses.runtimeconfig.json
+/Users/umreenimam/Desktop/Coding/c#/abstractClasses/abstractClasses/abstractClasses/bin/Debug/netcoreapp3.0/abstractClasses.runtimeconfig.dev.json
+/Users/umreenimam/Desktop/Coding/c#/abstractClasses/abstractClasses/abstractClasses/bin/Debug/netcoreapp3.0/abstractClasses.dll
+/Users/umreenimam/Desktop/Coding/c#/abstractClasses/abstractClasses/abstractClasses/bin/Debug/netcoreapp3.0/abstractClasses.pdb
+/Users/umreenimam/Desktop/Coding/c#/abstractClasses/abstractClasses/abstractClasses/obj/Debug/netcoreapp3.0/abstractClasses.dll
+/Users/umreenimam/Desktop/Coding/c#/abstractClasses/abstractClasses/abstractClasses/obj/Debug/netcoreapp3.0/abstractClasses.pdb

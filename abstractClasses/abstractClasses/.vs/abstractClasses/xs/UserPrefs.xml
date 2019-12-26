@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{50337CCC-EED9-4406-AC9A-745334FCD883}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="inheritanceExample/Program.cs">
+﻿<Properties StartupConfiguration="{9274C5FE-F239-4F97-9865-178914D56934}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="abstractClasses/Program.cs">
     <Files>
-      <File FileName="inheritanceExample/Program.cs" Line="94" Column="41" />
+      <File FileName="abstractClasses/Program.cs" Line="9" Column="63" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="inheritanceExample" expanded="True">
-            <Node name="inheritanceExample" expanded="True">
+          <Node name="abstractClasses" expanded="True">
+            <Node name="abstractClasses" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,9 +15,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.inheritanceExample PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.abstractClasses PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

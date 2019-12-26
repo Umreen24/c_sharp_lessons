@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{50337CCC-EED9-4406-AC9A-745334FCD883}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="inheritanceExample/Program.cs">
+﻿<Properties StartupConfiguration="{DCE2A1C9-3FD6-41A5-B7AB-E13735D969C3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="interfacesExample/Program.cs">
     <Files>
-      <File FileName="inheritanceExample/Program.cs" Line="94" Column="41" />
+      <File FileName="interfacesExample/Program.cs" Line="47" Column="62" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="inheritanceExample" expanded="True">
-            <Node name="inheritanceExample" expanded="True">
+          <Node name="interfacesExample" expanded="True">
+            <Node name="interfacesExample" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,8 +15,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.inheritanceExample PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.interfacesExample FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

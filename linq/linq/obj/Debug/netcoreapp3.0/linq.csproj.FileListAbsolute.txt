@@ -1,0 +1,11 @@
+/Users/umreenimam/Desktop/Coding/c#/linq/linq/obj/Debug/netcoreapp3.0/linq.csprojAssemblyReference.cache
+/Users/umreenimam/Desktop/Coding/c#/linq/linq/obj/Debug/netcoreapp3.0/linq.AssemblyInfoInputs.cache
+/Users/umreenimam/Desktop/Coding/c#/linq/linq/obj/Debug/netcoreapp3.0/linq.AssemblyInfo.cs
+/Users/umreenimam/Desktop/Coding/c#/linq/linq/bin/Debug/netcoreapp3.0/linq
+/Users/umreenimam/Desktop/Coding/c#/linq/linq/bin/Debug/netcoreapp3.0/linq.deps.json
+/Users/umreenimam/Desktop/Coding/c#/linq/linq/bin/Debug/netcoreapp3.0/linq.runtimeconfig.json
+/Users/umreenimam/Desktop/Coding/c#/linq/linq/bin/Debug/netcoreapp3.0/linq.runtimeconfig.dev.json
+/Users/umreenimam/Desktop/Coding/c#/linq/linq/bin/Debug/netcoreapp3.0/linq.dll
+/Users/umreenimam/Desktop/Coding/c#/linq/linq/bin/Debug/netcoreapp3.0/linq.pdb
+/Users/umreenimam/Desktop/Coding/c#/linq/linq/obj/Debug/netcoreapp3.0/linq.dll
+/Users/umreenimam/Desktop/Coding/c#/linq/linq/obj/Debug/netcoreapp3.0/linq.pdb
